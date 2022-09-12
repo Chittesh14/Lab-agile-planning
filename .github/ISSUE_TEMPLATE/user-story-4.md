@@ -1,15 +1,15 @@
 ---
-name: user story 1
-about: Need a service that has a counter.
+name: User story 4
+about: Counters can be reset
 title: ''
 labels: ''
-assignees: Chittesh14
+assignees: ''
 
 ---
 
-**As a** user 
- **I need** a serevice that acts as a counter
- **So that** so that i can keep track of the things 
+As a System Administrator
+I need the ability to reset the counter
+So that I can redo counting from the start
    
  ### Details and Assumptions
  * [document what you know]

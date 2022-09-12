@@ -1,15 +1,15 @@
 ---
-name: user story 1
-about: Need a service that has a counter.
+name: user story 2
+about: Describe this issue template's purpose here.
 title: ''
 labels: ''
-assignees: Chittesh14
+assignees: ''
 
 ---
 
-**As a** user 
- **I need** a serevice that acts as a counter
- **So that** so that i can keep track of the things 
+As a User
+I need to have multiple counters
+So that I can keep track of several counts at once.
    
  ### Details and Assumptions
  * [document what you know]

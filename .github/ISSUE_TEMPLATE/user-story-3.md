@@ -1,15 +1,15 @@
 ---
-name: user story 1
-about: Need a service that has a counter.
+name: User story 3
+about: Must persist counter across restarts
 title: ''
 labels: ''
-assignees: Chittesh14
+assignees: ''
 
 ---
 
-**As a** user 
- **I need** a serevice that acts as a counter
- **So that** so that i can keep track of the things 
+As a Service Provider
+I need the service to persist the last known count
+So that users don't lose track of their counts after the service is restarted.
    
  ### Details and Assumptions
  * [document what you know]
